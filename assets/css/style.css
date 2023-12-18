@@ -1,0 +1,1847 @@
+.servcies_a{
+    font-size: 15px;
+    text-decoration: none;
+}
+nav .collapse section .services_menu:hover{
+    background-color: white;
+    box-shadow: 3px 5px 4px #888888;
+}
+.btn_viewAll{
+    font-size: 13px;
+    border-radius: 20px!important;
+    margin-left: 150px;
+}
+.nav_contact{
+    background-color:#F8F9FA;
+    border-radius: 20px;
+    color:black;
+    border:none;
+}
+.nav_contact:hover{
+    background-color: gray;
+}
+.img_header{
+    background-image:url(../images/landing-banner-bg-cd83ad43959670481ff9c4c363fb8d5c.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    color:white;
+}
+.header .row div h1{
+    font-size: 52px;
+}
+.header .row div p{
+    font-size: 17px;
+}
+.header .row div button{
+    border-radius: 18px;
+}
+.software_consulting_part h2{
+    font-size: 36px;
+}
+.web_part .row .row .apps{
+    border-radius: 20px;
+}
+.web_part .row .row .apps p{
+    font-size: 17px;
+}
+.web_part .row .second_part h3{
+    font-size: 22px;
+}
+.web_part .row .second_part button{
+    border-radius: 20px;
+}
+.industries{
+    background-color:#F8F8F8;
+}
+.industries .industries_body p{
+    color:black;
+    font-weight: 500;
+}
+.portfolio_part{
+    background-color: #F2F2F2;
+}
+.portfolio_part .portfolio_heading{
+    font-size: 35px;
+}
+.portfolio_part .carousel_part .carousel_Arrow{
+    font-size: 42px;
+    color:#f8f8f8c9;
+}
+.portfolio_part .carousel-inner .carousel-item .row button{
+    border-radius: 20px;
+}
+.HireTheRight_part .row h1{
+    color:black;
+    font-size: 32px;
+}
+.HireTheRight_part .row p{
+    color:black;
+    font-weight: 500;
+}
+.Engagement_part .row h1{
+    font-size: 35px;
+    color:black;
+}
+.Engagement_part .row h1{
+    font-size: 35px;
+    color:black;
+}
+.Engagement_part .row p{
+    color:black;
+}
+.Engagement_part .row h3{
+    font-size: 20px;
+    font-weight: 700;
+    color:black;
+}
+.Engagement_part div button{
+    border-radius: 20px;
+}
+.letUsKnow_part{
+    background-color: #F8F8F8;
+}
+.letUsKnow_part .letUsKnow_header h1{
+    font-size: 33px;
+}
+.letUsKnow_body .row .talk{
+    font-size: 23px;
+    color:black;
+}
+.letUsKnow_body .row .salr_name{
+    color:black;
+}
+.letUsKnow_body .row .envelope{
+    color:#F14336;
+    font-size: 23px;
+}
+.letUsKnow_body .row .linkedin{
+    color:#074b70;
+    font-size: 23px;
+}
+.letUsKnow_body .row .whatsapp{
+    color:rgb(17, 247, 17);
+    font-size: 23px;
+}
+.letUsKnow_body .row .skype{
+    color:#03A9F4;
+    font-size: 23px;
+}
+
+.letUsKnow_body .row form .form{
+    border-radius: 20px;
+    border: none;
+    background-color:#F8F8F8 ;
+    width: 50%;
+}
+.letUsKnow_body .row form select{
+    color:gray;
+}
+.letUsKnow_body .row form button{
+    border-radius: 20px;
+    border:none;
+}
+.footer_part .row .email{
+    font-size: 25px;
+}
+.footer_part .row .country{
+    font-size: 22px;
+}
+.footer_part .row .link{
+    text-decoration: none;
+}
+.footer_background{
+    background-image: url(../images/footer-bg-bc19b36251a1a4f6b8849b21dd183a52.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer_part .row .third_column input{
+    border-radius: 10px;
+    height: 52px;
+}
+.footer_part .row .third_column .background{
+    border-radius:50px;
+    width: 33px;
+    height: 33px;
+    margin-right: 32px;
+}
+.footer_part .row .third_column .background a{
+    font-size: 17px;
+}
+
+/* __________________________________**********************************__________________________ */
+  /* Web Design and Development */
+.header_part .row h1{
+    font-size: 48px;
+    color:black;
+}
+.header_part .row h5{
+    font-size: 23px;
+    color:black;
+}
+.header_part .row ul li i{
+    font-size: 9px;
+}
+.header_part .row ul li p{
+    font-size: 15px;
+    color:black;
+}
+.header_part .row button{
+    border-radius: 20px;
+}
+.header_part .row img{
+    width: 40%;
+}
+.HireWebPart{
+    background-image: url(../images/download\ \(10\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.HireWebPart .row p{
+    font-size: 18px;
+}
+.HireWebPart .row h5{
+    font-size: 18px;
+}
+.HireDedicated_Part .header_part h1{
+    font-size: 35px;
+}
+.HireDedicated_Part .header_part h4{
+    font-size: 23px;
+}
+.HireDedicated_Part .body_part .row h5{
+    color:black;
+    font-size: 17px;
+}
+.HireDedicated_Part .body_part .row .background_shadow:hover{
+    box-shadow: 0px 5px 5px 5px #888888;
+}
+.Outsourcing_part .Outsourcing_header h1{
+    font-size: 35px;
+}
+.Outsourcing_part .Outsourcing_body .row h2{
+    font-size: 24px;
+}
+.Outsourcing_part .Outsourcing_body .row p{
+    font-size: 19px;
+}
+.Designing_part{
+    background-color: #FFF8F0;
+}
+.Designing_part .header_part h1{
+    font-size: 35px;
+}
+.Question_part .body_part ul li div{
+    font-size: 14px;
+}
+
+/* __________________________**********************************______________________________ */
+/* mobile App parts */
+.Mobile_header_part .row h1{
+    font-size: 48px;
+    color:black;
+}
+.Mobile_header_part .row h5{
+    font-size: 23px;
+    color:black;
+}
+.Mobile_header_part .row ul li i{
+    font-size: 9px;
+}
+.Mobile_header_part .row ul li p{
+    font-size: 15px;
+    color:black;
+}
+.Mobile_header_part .row button{
+    border-radius: 20px;
+}
+.Mobile_header_part .row img{
+    width: 40%;
+}
+.MobileApp_part{
+    background-image: url(../images/download\ \(10\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.MobileApp_part h1{
+    font-size: 35px;
+}
+.MobileApp_part p{
+    font-size: 14px;
+}
+.MobileApp_part .row p{
+    font-size: 18px;
+}
+.MobileApp_part .row h5{
+    font-size: 18px;
+}
+.AppDevelopers_Part .header_part h1{
+    font-size: 35px;
+}
+.AppDevelopers_Part .header_part h4{
+    font-size: 23px;
+}
+.AppDevelopers_Part .body_part .row h5{
+    color:black;
+    font-size: 17px;
+}
+.AppDevelopers_Part .body_part .row .background_shadow:hover{
+    box-shadow: 0px 5px 5px 5px #888888;
+}
+.Appportfolio_part{
+    background-color: #F2F2F2;
+}
+.portfolio_part .Appportfolio_heading{
+    font-size: 35px;
+}
+.Appportfolio_part .carousel_part .carousel_Arrow{
+    font-size: 42px;
+    color:#f8f8f8c9;
+}
+.Appportfolio_part .carousel-inner .carousel-item .row button{
+    border-radius: 20px;
+}
+.Mobile_Application .Application_header h1{
+    font-size: 35px;
+}
+.Mobile_Application .Mobile_Application .row h2{
+    font-size: 24px;
+}
+.Mobile_Application .Application_body .row p{
+    font-size: 19px;
+}
+.AppDevelopment_part{
+    background-color: #FFF8F0;
+}
+.AppDevelopment_part .header_part h1{
+    font-size: 35px;
+}
+.AppQuestion_part .body_part ul li div{
+    font-size: 14px;
+}
+.Appfooter_part .row .email{
+    font-size: 25px;
+}
+.Appfooter_part .row .country{
+    font-size: 22px;
+}
+.Appfooter_part .row .link{
+    text-decoration: none;
+}
+.Appfooter_background{
+    background-image: url(../images/footer-bg-bc19b36251a1a4f6b8849b21dd183a52.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Appfooter_part .row .third_column input{
+    border-radius: 10px;
+    height: 52px;
+}
+.Appfooter_part .row .third_column .background{
+    border-radius:50px;
+    width: 33px;
+    height: 33px;
+    margin-right: 32px;
+}
+.Appfooter_part .row .third_column .background a{
+    font-size: 17px;
+}
+
+
+/* __________________________**********************************______________________________ */
+/* Enterprise parts */
+.Enterprise_header_part .row h1{
+    font-size: 48px;
+    color:black;
+}
+.Enterprise_header_part .row h5{
+    font-size: 23px;
+    color:black;
+}
+.Enterprise_header_part .row ul li i{
+    font-size: 9px;
+}
+.Enterprise_header_part .row ul li p{
+    font-size: 15px;
+    color:black;
+}
+.Enterprise_header_part .row button{
+    border-radius: 20px;
+}
+.Enterprise_header_part .row img{
+    width: 40%;
+}
+.Enterprise_software_part{
+    background-image: url(../images/download\ \(10\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Enterprise_software_part h1{
+    font-size: 35px;
+}
+.Enterprise_software_part p{
+    font-size: 14px;
+}
+.Enterprise_software_part .row p{
+    font-size: 18px;
+}
+.Enterprise_software_part .row h5{
+    font-size: 18px;
+}
+.EnterpriseApp_Part .header_part h1{
+    font-size: 35px;
+}
+.EnterpriseApp_Part .header_part h4{
+    font-size: 23px;
+}
+.EnterpriseApp_Part .body_part .row h5{
+    color:black;
+    font-size: 17px;
+}
+.EnterpriseApp_Part .body_part .row .background_shadow:hover{
+    box-shadow: 0px 5px 5px 5px #888888;
+}
+.Enterprise_portfolio_part{
+    background-color: #F2F2F2;
+}
+.Enterprise_portfolio_part .Enterprise_portfolio_heading{
+    font-size: 35px;
+}
+.Enterprise_portfolio_part .carousel_part .carousel_Arrow{
+    font-size: 42px;
+    color:#f8f8f8c9;
+}
+.Enterprise_portfolio_part .carousel-inner .carousel-item .row button{
+    border-radius: 20px;
+}
+.Enterprise_software .Enterprise_software_header h1{
+    font-size: 35px;
+}
+.Enterprise_software .row h2{
+    font-size: 24px;
+}
+.Enterprise_software .Enterprise_software_body .row p{
+    font-size: 17px;
+}
+.Enterprise_tools_part{
+    background-color: #FFF8F0;
+}
+.Enterprise_tools_part .header_part h1{
+    font-size: 35px;
+}
+.Enterprise_Question_part .body_part ul li div{
+    font-size: 14px;
+}
+
+.EnterpriseletUsKnow_part{
+    background-color: #F8F8F8;
+}
+.EnterpriseletUsKnow_part .EnterpriseletUsKnow_header h1{
+    font-size: 33px;
+}
+.EnterpriseletUsKnow_body .row .talk{
+    font-size: 23px;
+    color:black;
+}
+.EnterpriseletUsKnow_body .row .salr_name{
+    color:black;
+}
+.EnterpriseletUsKnow_body .row .envelope{
+    color:#F14336;
+    font-size: 23px;
+}
+.EnterpriseletUsKnow_body .row .linkedin{
+    color:#074b70;
+    font-size: 23px;
+}
+.EnterpriseletUsKnow_body .row .whatsapp{
+    color:rgb(17, 247, 17);
+    font-size: 23px;
+}
+.EnterpriseletUsKnow_body .row .skype{
+    color:#03A9F4;
+    font-size: 23px;
+}
+
+.EnterpriseletUsKnow_body .row form .form{
+    border-radius: 20px;
+    border: none;
+    background-color:#F8F8F8 ;
+    width: 50%;
+}
+.EnterpriseletUsKnow_body .row form select{
+    color:gray;
+}
+.EnterpriseletUsKnow_body .row form button{
+    border-radius: 20px;
+    border:none;
+}
+
+
+.Enterprisefooter_part .row .email{
+    font-size: 25px;
+}
+.Enterprisefooter_part .row .country{
+    font-size: 22px;
+}
+.Enterprisefooter_part .row .link{
+    text-decoration: none;
+}
+.footer_background{
+    background-image: url(../images/footer-bg-bc19b36251a1a4f6b8849b21dd183a52.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Enterprisefooter_part .row .third_column input{
+    border-radius: 10px;
+    height: 52px;
+}
+.Enterprisefooter_part .row .third_column .background{
+    border-radius:50px;
+    width: 33px;
+    height: 33px;
+    margin-right: 32px;
+}
+.Enterprisefooter_part .row .third_column .background a{
+    font-size: 17px;
+}
+
+
+/* __________________________**********************************______________________________ */
+/* Software Quality parts */
+
+.softQuality_header_part .row h1{
+    font-size: 48px;
+    color:black;
+}
+.softQuality_header_part .row h5{
+    font-size: 23px;
+    color:black;
+}
+.softQuality_header_part .row ul li i{
+    font-size: 9px;
+}
+.softQuality_header_part .row ul li p{
+    font-size: 15px;
+    color:black;
+}
+.softQuality_header_part .row button{
+    border-radius: 20px;
+}
+.softQuality_header_part .row img{
+    width: 40%;
+}
+.Software_testing_part{
+    background-image: url(../images/download\ \(10\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Software_testing_part h1{
+    font-size: 35px;
+}
+.Software_testing_part p{
+    font-size: 14px;
+}
+.Software_testing_part .row p{
+    font-size: 18px;
+}
+.Software_testing_part .row h5{
+    font-size: 18px;
+}
+.ServicesQuality_Part .header_part h1{
+    font-size: 35px;
+}
+.ServicesQuality_Part .header_part h4{
+    font-size: 23px;
+}
+.ServicesQuality_Part .body_part .row h5{
+    color:black;
+    font-size: 17px;
+}
+.ServicesQuality_Part .body_part .row .background_shadow:hover{
+    box-shadow: 0px 5px 5px 5px #888888;
+}
+.Qualityportfolio_part{
+    background-color: #F2F2F2;
+}
+.Qualityportfolio_part .Servportfilio_heading{
+    font-size: 35px;
+}
+.Qualityportfolio_part .carousel_part .carousel_Arrow{
+    font-size: 42px;
+    color:#f8f8f8c9;
+}
+.Qualityportfolio_part .carousel-inner .carousel-item .row button{
+    border-radius: 20px;
+}
+.Quality_Assurance_part .header_part h1{
+    font-size: 35px;
+}
+.Quality_Assurance_part .header_part p{
+    font-size: 17px;
+}
+
+.Quality_Assurance_part .body_part p{
+    font-size: 17px;
+}
+.Quality_tools_part{
+    background-color: #FFF8F0;
+}
+.Quality_tools_part .header_part h1{
+    font-size: 35px;
+}
+.Quality_Question_part .body_part ul li div{
+    font-size: 14px;
+}
+.Quality_Question_part .row .email{
+    font-size: 25px;
+}
+
+.Quality_letUsKnow_part{
+    background-color: #F8F8F8;
+}
+.Quality_letUsKnow_part .header_part h1{
+    font-size: 33px;
+}
+.body_part .row .talk{
+    font-size: 23px;
+    color:black;
+}
+.body_part .row .salr_name{
+    color:black;
+}
+.body_part .row .envelope{
+    color:#F14336;
+    font-size: 23px;
+}
+.body_part .row .linkedin{
+    color:#074b70;
+    font-size: 23px;
+}
+.body_part .row .whatsapp{
+    color:rgb(17, 247, 17);
+    font-size: 23px;
+}
+.body_part .row .skype{
+    color:#03A9F4;
+    font-size: 23px;
+}
+
+.body_part .row form .form{
+    border-radius: 20px;
+    border: none;
+    background-color:#F8F8F8 ;
+    width: 50%;
+}
+.body_part .row form select{
+    color:gray;
+}
+.body_part .row form button{
+    border-radius: 20px;
+    border:none;
+}
+.Quality_footer_part .row .country{
+    font-size: 22px;
+}
+.Quality_footer_part .row .link{
+    text-decoration: none;
+}
+.footer_background{
+    background-image: url(../images/footer-bg-bc19b36251a1a4f6b8849b21dd183a52.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Quality_footer_part .row .third_column input{
+    border-radius: 10px;
+    height: 52px;
+}
+.Quality_footer_part .row .third_column .background{
+    border-radius:50px;
+    width: 33px;
+    height: 33px;
+    margin-right: 32px;
+}
+.Quality_footer_part .row .third_column .background a{
+    font-size: 17px;
+}
+
+/* __________________________**********************************______________________________ */
+/* Dev Ops CSS part */
+
+.DevOps_header_part .row h1{
+    font-size: 48px;
+    color:black;
+}
+.DevOps_header_part .row h5{
+    font-size: 24px;
+    color:black;
+}
+.DevOps_header_part .row ul li i{
+    font-size: 9px;
+}
+.DevOps_header_part .row ul li p{
+    font-size: 15px;
+    color:black;
+}
+.DevOps_header_part .row button{
+    border-radius: 20px;
+}
+.DevOps_header_part .row img{
+    width: 40%;
+}
+.DevOps_Consulting_part{
+    background-image: url(../images/download\ \(10\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.DevOps_Consulting_part h1{
+    font-size: 35px;
+}
+.DevOps_Consulting_part p{
+    font-size: 17px;
+}
+.DevOps_Consulting_part .row p{
+    font-size: 18px;
+}
+.DevOps_Consulting_part .row h5{
+    font-size: 18px;
+}
+.DevOps_Engineers_Part .header_part h1{
+    font-size: 35px;
+}
+.DevOps_Engineers_Part .header_part h4{
+    font-size: 23px;
+}
+.DevOps_Engineers_Part .body_part .row h5{
+    color:black;
+    font-size: 17px;
+}
+.DevOps_Engineers_Part .body_part .row .background_shadow:hover{
+    box-shadow: 0px 5px 5px 5px #888888;
+}
+.DevOps_portfolio_part{
+    background-color: #F2F2F2;
+}
+.DevOps_portfolio_part .Devportfilio_heading{
+    font-size: 35px;
+}
+.DevOps_portfolio_part .carousel_part .carousel_Arrow{
+    font-size: 42px;
+    color:#f8f8f8c9;
+}
+.DevOps_portfolio_part .carousel-inner .carousel-item .row button{
+    border-radius: 20px;
+}
+.DevOps_services_part{
+    background-color:#F8F8F8;
+}
+.DevOps_services_part .header_part h1{
+    font-size: 35px;
+}
+.DevOps_services_part .header_part p{
+    font-size: 17px;
+}
+.DevOps_services_part .body_part .row h4{
+    font-size: 21px;
+}
+.DevOps_services_part .body_part .row p{
+    font-size: 17px;
+}
+.DevOps_tools_part{
+    background-color: #FFF8F0;
+}
+.DevOps_tools_part .header_part h1{
+    font-size: 35px;
+}
+.DevOps_tools_part .body_part ul li div{
+    font-size: 14px;
+}
+.DevOps_Question_part{
+    background-color: #FAFAFA;
+}
+.DevOps_Question_part .row .email{
+    font-size: 25px;
+}
+.DevOps_Question_part .body_part ul li{
+    background-color: #FAFAFA;
+}
+
+.DevOps_letUsKnow_part{
+    background-color: #F8F8F8;
+}
+.DevOps_letUsKnow_part .header_part h1{
+    font-size: 33px;
+}
+.DevOps_letUsKnow_part .body_part .row .talk{
+    font-size: 23px;
+    color:black;
+}
+.DevOps_letUsKnow_part .body_part .row .salr_name{
+    color:black;
+}
+.DevOps_letUsKnow_part .body_part .row .envelope{
+    color:#F14336;
+    font-size: 23px;
+}
+.DevOps_letUsKnow_part .body_part .row .linkedin{
+    color:#074b70;
+    font-size: 23px;
+}
+.DevOps_letUsKnow_part .body_part .row .whatsapp{
+    color:rgb(17, 247, 17);
+    font-size: 23px;
+}
+.DevOps_letUsKnow_part .body_part .row .skype{
+    color:#03A9F4;
+    font-size: 23px;
+}
+
+.DevOps_letUsKnow_part .body_part .row form .form{
+    border-radius: 20px;
+    border: none;
+    background-color:#F8F8F8 ;
+    width: 50%;
+}
+.DevOps_letUsKnow_part .body_part .row form select{
+    color:gray;
+}
+.DevOps_letUsKnow_part .body_part .row form button{
+    border-radius: 20px;
+    border:none;
+}
+.DevOps_footer_part .row .country{
+    font-size: 22px;
+}
+.DevOps_footer_part .row .link{
+    text-decoration: none;
+}
+.footer_background{
+    background-image: url(../images/footer-bg-bc19b36251a1a4f6b8849b21dd183a52.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.DevOps_footer_part .row .third_column input{
+    border-radius: 10px;
+    height: 52px;
+}
+.DevOps_footer_part .row .third_column .background{
+    border-radius:50px;
+    width: 33px;
+    height: 33px;
+    margin-right: 32px;
+}
+.Quality_footer_part .row .third_column .background a{
+    font-size: 17px;
+}
+
+/* __________________________**********************************______________________________ */
+/* Data Scraping Part Css */
+
+.Data_Scraping_header_part .row h1{
+    font-size: 48px;
+    color:black;
+}
+.Data_Scraping_header_part .row h5{
+    font-size: 24px;
+    color:black;
+}
+.Data_Scraping_header_part .row ul li i{
+    font-size: 9px;
+}
+.Data_Scraping_header_part .row ul li p{
+    font-size: 15px;
+    color:black;
+}
+.Data_Scraping_header_part .row button{
+    border-radius: 20px;
+}
+.Data_Scraping_header_part .row img{
+    width: 40%;
+}
+.Scraping_Services_part{
+    background-image: url(../images/download\ \(10\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Scraping_Services_part h1{
+    font-size: 35px;
+}
+.Scraping_Services_part p{
+    font-size: 17px;
+}
+.Scraping_Services_part .row p{
+    font-size: 18px;
+}
+.Scraping_Services_part .row h5{
+    font-size: 18px;
+}
+.Scraping_Specialist_Part .header_part h1{
+    font-size: 35px;
+}
+.Scraping_Specialist_Part .header_part h4{
+    font-size: 23px;
+}
+.Scraping_Specialist_Part .body_part .row h5{
+    color:black;
+    font-size: 17px;
+}
+.Scraping_Specialist_Part .body_part .row .background_shadow:hover{
+    box-shadow: 0px 5px 5px 5px #888888;
+}
+.Scraping_portfolio_part{
+    background-color: #F2F2F2;
+}
+.Scraping_portfolio_part .Scraping_portfilio_heading{
+    font-size: 35px;
+}
+.Scraping_portfolio_part .carousel_part .carousel_Arrow{
+    font-size: 42px;
+    color:#f8f8f8c9;
+}
+.Scraping_portfolio_part .carousel-inner .carousel-item .row button{
+    border-radius: 20px;
+}
+.Scraping_process_part{
+    background-color:#F8F8F8;
+}
+.Scraping_process_part .header_part h1{
+    font-size: 35px;
+}
+.Scraping_process_part .header_part p{
+    font-size: 17px;
+}
+.Scraping_process_part .body_part .row h4{
+    font-size: 21px;
+}
+.Scraping_process_part .body_part .row p{
+    font-size: 17px;
+}
+.Scraping_tools_part{
+    background-color: #FFF8F0;
+}
+.Scraping_tools_part .header_part h1{
+    font-size: 35px;
+}
+.Scraping_tools_part .body_part ul li div{
+    font-size: 14px;
+}
+.Scraping_Question_part{
+    background-color: #FAFAFA;
+}
+.Scraping_Question_part .row .email{
+    font-size: 25px;
+}
+.Scraping_Question_part .body_part ul li{
+    background-color: #FAFAFA;
+}
+
+.Scraping_letUsKnow_part{
+    background-color: #F8F8F8;
+}
+.Scraping_letUsKnow_part .header_part h1{
+    font-size: 33px;
+}
+.Scraping_letUsKnow_part .body_part .row .talk{
+    font-size: 23px;
+    color:black;
+}
+.Scraping_letUsKnow_part .body_part .row .salr_name{
+    color:black;
+}
+.Scraping_letUsKnow_part .body_part .row .envelope{
+    color:#F14336;
+    font-size: 23px;
+}
+.Scraping_letUsKnow_part .body_part .row .linkedin{
+    color:#074b70;
+    font-size: 23px;
+}
+.Scraping_letUsKnow_part .body_part .row .whatsapp{
+    color:rgb(17, 247, 17);
+    font-size: 23px;
+}
+.Scraping_letUsKnow_part .body_part .row .skype{
+    color:#03A9F4;
+    font-size: 23px;
+}
+
+.Scraping_letUsKnow_part .body_part .row .form_header{
+    font-size: 20px;
+}
+.Scraping_letUsKnow_part .body_part .row form .form{
+    border-radius: 20px;
+    border: none;
+    background-color:#F8F8F8 ;
+    width: 50%;
+}
+.Scraping_letUsKnow_part .body_part .row form select{
+    color:gray;
+}
+.Scraping_letUsKnow_part .body_part .row form button{
+    border-radius: 20px;
+    border:none;
+}
+.Scraping_footer_part .row .country{
+    font-size: 22px;
+}
+.Scraping_footer_part .row .link{
+    text-decoration: none;
+}
+.footer_background{
+    background-image: url(../images/footer-bg-bc19b36251a1a4f6b8849b21dd183a52.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Scraping_footer_part .row .third_column input{
+    border-radius: 10px;
+    height: 52px;
+}
+.Scraping_footer_part .row .third_column .background{
+    border-radius:50px;
+    width: 33px;
+    height: 33px;
+    margin-right: 32px;
+}
+.Scraping_footer_part .row .third_column .background a{
+    font-size: 17px;
+}
+
+
+/* __________________________**********************************______________________________ */
+/* Big Data parts */
+.BigData_header_part .row h1{
+    font-size: 48px;
+    color:black;
+}
+.BigData_header_part .row h5{
+    font-size: 22px;
+    color:black;
+}
+.BigData_header_part .row ul li i{
+    font-size: 9px;
+}
+.BigData_header_part .row ul li p{
+    font-size: 15px;
+    color:black;
+}
+.BigData_header_part .row button{
+    border-radius: 20px;
+}
+.BigData_header_part .row img{
+    width: 40%;
+}
+.Data_services_part{
+    background-image: url(../images/download\ \(10\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Data_services_part h1{
+    font-size: 35px;
+}
+.Data_services_part p{
+    font-size: 16px;
+}
+.Data_services_part .row p{
+    font-size: 18px;
+}
+.Data_services_part .row h5{
+    font-size: 18px;
+}
+.Data_Expert_Part .header_part h1{
+    font-size: 35px;
+}
+.Data_Expert_Part .header_part h4{
+    font-size: 23px;
+}
+.Data_Expert_Part .body_part .row h5{
+    color:black;
+    font-size: 17px;
+}
+.Data_Expert_Part .body_part .row .background_shadow:hover{
+    box-shadow: 0px 5px 5px 5px #888888;
+}
+.BigData_portfolio_part{
+    background-color: #F2F2F2;
+}
+.BigData_portfolio_part .BigData_portfilio_heading{
+    font-size: 35px;
+}
+.BigData_portfolio_part .carousel_part .carousel_Arrow{
+    font-size: 42px;
+    color:#f8f8f8c9;
+}
+.BigData_portfolio_part .carousel-inner .carousel-item .row button{
+    border-radius: 20px;
+}
+.BigData_Approach_part .header_part h1{
+    font-size: 35px;
+}
+.BigData_Approach_part .row h2{
+    font-size: 24px;
+}
+.BigData_Approach_part .body_part .row p{
+    font-size: 18px;
+}
+.BigData_tools_part{
+    background-color: #FFF8F0;
+}
+.BigData_tools_part .header_part h1{
+    font-size: 35px;
+}
+.BigData_Question_part{
+    background-color: #FAFAFA;
+}
+.BigData_Question_part .row .email{
+    font-size: 25px;
+}
+.BigData_Question_part .body_part ul li{
+    background-color: #FAFAFA;
+}
+.BigData_letUsKnow_part{
+    background-color: #F8F8F8;
+}
+.BigData_letUsKnow_part .header_part h1{
+    font-size: 33px;
+}
+.BigData_letUsKnow_part .body_part .row .talk{
+    font-size: 23px;
+    color:black;
+}
+.BigData_letUsKnow_part .body_part .row .salr_name{
+    color:black;
+}
+.BigData_letUsKnow_part .body_part .row .envelope{
+    color:#F14336;
+    font-size: 23px;
+}
+.BigData_letUsKnow_part .body_part .row .linkedin{
+    color:#074b70;
+    font-size: 23px;
+}
+.BigData_letUsKnow_part .body_part .row .whatsapp{
+    color:rgb(17, 247, 17);
+    font-size: 23px;
+}
+.BigData_letUsKnow_part .body_part .row .skype{
+    color:#03A9F4;
+    font-size: 23px;
+}
+
+.BigData_letUsKnow_part .body_part .row .form_header{
+    font-size: 20px;
+}
+.BigData_letUsKnow_part .body_part .row form .form{
+    border-radius: 20px;
+    border: none;
+    background-color:#F8F8F8 ;
+    width: 50%;
+}
+.BigData_letUsKnow_part .body_part .row form select{
+    color:gray;
+}
+.BigData_letUsKnow_part .body_part .row form button{
+    border-radius: 20px;
+    border:none;
+}
+.BigData_footer_part .row .country{
+    font-size: 22px;
+}
+.BigData_footer_part .row .link{
+    text-decoration: none;
+}
+.footer_background{
+    background-image: url(../images/footer-bg-bc19b36251a1a4f6b8849b21dd183a52.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.BigData_footer_part .row .third_column input{
+    border-radius: 10px;
+    height: 52px;
+}
+.BigData_footer_part .row .third_column .background{
+    border-radius:50px;
+    width: 33px;
+    height: 33px;
+    margin-right: 32px;
+}
+.BigData_footer_part .row .third_column .background a{
+    font-size: 17px;
+}
+
+/* __________________________**********************************______________________________ */
+/* IoT Development parts */
+.IoT_header_part .row h1{
+    font-size: 48px;
+    color:black;
+}
+.IoT_header_part .row h5{
+    font-size: 22px;
+    color:black;
+}
+.IoT_header_part .row ul li i{
+    font-size: 9px;
+}
+.IoT_header_part .row ul li p{
+    font-size: 15px;
+    color:black;
+}
+.IoT_header_part .row button{
+    border-radius: 20px;
+}
+.IoT_header_part .row img{
+    width: 40%;
+}
+.IoT_services_part{
+    background-image: url(../images/download\ \(10\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.IoT_services_part h1{
+    font-size: 35px;
+}
+.IoT_services_part p{
+    font-size: 16px;
+}
+.IoT_services_part .row p{
+    font-size: 18px;
+}
+.IoT_services_part .row h5{
+    font-size: 18px;
+}
+.IoT_Application_Part .header_part h1{
+    font-size: 35px;
+}
+.IoT_Application_Part .header_part h4{
+    font-size: 23px;
+}
+.IoT_Application_Part .body_part .row h5{
+    color:black;
+    font-size: 17px;
+}
+.IoT_Application_Part .body_part .row .background_shadow:hover{
+    box-shadow: 0px 5px 5px 5px #888888;
+}
+.IoT_portfolio_part{
+    background-color: #F2F2F2;
+}
+.IoT_portfolio_part .IoT_portfilio_heading{
+    font-size: 35px;
+}
+.IoT_portfolio_part .carousel_part .carousel_Arrow{
+    font-size: 42px;
+    color:#f8f8f8c9;
+}
+.IoT_portfolio_part .carousel-inner .carousel-item .row button{
+    border-radius: 20px;
+}
+.BigData_Approach_part .header_part h1{
+    font-size: 35px;
+}
+.IoT_App_part{
+    background-color:#F8F8F8 ;
+}
+.IoT_App_part .row h2{
+    font-size: 24px;
+}
+.IoT_App_part .body_part .row p{
+    font-size: 18px;
+}
+.IoT_tools_part{
+    background-color: #FFF8F0;
+}
+.IoT_tools_part .header_part h1{
+    font-size: 35px;
+}
+.IoT_Question_part{
+    background-color: #FAFAFA;
+}
+.IoT_Question_part .row .email{
+    font-size: 25px;
+}
+.IoT_Question_part .body_part ul li{
+    background-color: #FAFAFA;
+}
+.IoT_letUsKnow_part{
+    background-color: #F8F8F8;
+}
+.IoT_letUsKnow_part .header_part h1{
+    font-size: 33px;
+}
+.IoT_letUsKnow_part .body_part .row .talk{
+    font-size: 23px;
+    color:black;
+}
+.IoT_letUsKnow_part .body_part .row .salr_name{
+    color:black;
+}
+.IoT_letUsKnow_part .body_part .row .envelope{
+    color:#F14336;
+    font-size: 23px;
+}
+.IoT_letUsKnow_part .body_part .row .linkedin{
+    color:#074b70;
+    font-size: 23px;
+}
+.IoT_letUsKnow_part .body_part .row .whatsapp{
+    color:rgb(17, 247, 17);
+    font-size: 23px;
+}
+.IoT_letUsKnow_part .body_part .row .skype{
+    color:#03A9F4;
+    font-size: 23px;
+}
+
+.IoT_letUsKnow_part .body_part .row .form_header{
+    font-size: 20px;
+}
+.IoT_letUsKnow_part .body_part .row form .form{
+    border-radius: 20px;
+    border: none;
+    background-color:#F8F8F8 ;
+    width: 50%;
+}
+.IoT_letUsKnow_part .body_part .row form select{
+    color:gray;
+}
+.IoT_letUsKnow_part .body_part .row form button{
+    border-radius: 20px;
+    border:none;
+}
+.IoT_footer_part .row .country{
+    font-size: 22px;
+}
+.IoT_footer_part .row .link{
+    text-decoration: none;
+}
+.footer_background{
+    background-image: url(../images/footer-bg-bc19b36251a1a4f6b8849b21dd183a52.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.IoT_footer_part .row .third_column input{
+    border-radius: 10px;
+    height: 52px;
+}
+.IoT_footer_part .row .third_column .background{
+    border-radius:50px;
+    width: 33px;
+    height: 33px;
+    margin-right: 32px;
+}
+.IoT_footer_part .row .third_column .background a{
+    font-size: 17px;
+}
+
+
+/* __________________________**********************************______________________________ */
+/* Software Project Management parts */
+.Soft-project_header_part .row h1{
+    font-size: 48px;
+    color:black;
+}
+.Soft-project_header_part .row h5{
+    font-size: 22px;
+    color:black;
+}
+.Soft-project_header_part .row ul li i{
+    font-size: 9px;
+}
+.Soft-project_header_part .row ul li p{
+    font-size: 15px;
+    color:black;
+}
+.Soft-project_header_part .row button{
+    border-radius: 20px;
+}
+.Soft-project_header_part .row img{
+    width: 40%;
+}
+.Soft-project_part{
+    background-image: url(../images/download\ \(10\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Soft-project_part h1{
+    font-size: 35px;
+}
+.Soft-project_part p{
+    font-size: 16px;
+}
+.Soft-project_part .row p{
+    font-size: 18px;
+}
+.Soft-project_part .row h5{
+    font-size: 20px;
+}
+.soft-project_managers_Part .header_part h1{
+    font-size: 35px;
+}
+.soft-project_managers_Part .header_part h4{
+    font-size: 23px;
+}
+.soft-project_managers_Part .body_part .row h5{
+    color:black;
+    font-size: 17px;
+}
+.soft-project_managers_Part .body_part .row .background_shadow:hover{
+    box-shadow: 0px 5px 5px 5px #888888;
+}
+.soft-project_portfolio_part{
+    background-color: #F2F2F2;
+}
+.soft-project_portfolio_part .soft_portfilio_heading{
+    font-size: 35px;
+}
+.soft-project_portfolio_part .carousel_part .carousel_Arrow{
+    font-size: 42px;
+    color:#f8f8f8c9;
+}
+.soft-project_portfolio_part .carousel-inner .carousel-item .row button{
+    border-radius: 20px;
+}
+.soft-project_Approach_part{
+    background-color:#F8F8F8 ;
+}
+.soft-project_Approach_part .header_part h1{
+    font-size: 35px;
+}
+.soft-project_Approach_part .body_part .row p{
+    font-size: 18px;
+}
+.soft-project_tools_part{
+    background-color: #FFF8F0;
+}
+.soft-project_tools_part .header_part h1{
+    font-size: 35px;
+}
+.soft-project_Question_part{
+    background-color: #FAFAFA;
+}
+.soft-project_Question_part .row .email{
+    font-size: 25px;
+}
+.soft-project_Question_part .body_part ul li{
+    background-color: #FAFAFA;
+}
+.soft-project_letUsKnow_part{
+    background-color: #F8F8F8;
+}
+.soft-project_letUsKnow_part .header_part h1{
+    font-size: 33px;
+}
+.soft-project_letUsKnow_part .body_part .row .talk{
+    font-size: 23px;
+    color:black;
+}
+.soft-project_letUsKnow_part .body_part .row .salr_name{
+    color:black;
+}
+.soft-project_letUsKnow_part .body_part .row .envelope{
+    color:#F14336;
+    font-size: 23px;
+}
+.soft-project_letUsKnow_part .body_part .row .linkedin{
+    color:#074b70;
+    font-size: 23px;
+}
+.soft-project_letUsKnow_part .body_part .row .whatsapp{
+    color:rgb(17, 247, 17);
+    font-size: 23px;
+}
+.soft-project_letUsKnow_part .body_part .row .skype{
+    color:#03A9F4;
+    font-size: 23px;
+}
+
+.soft-project_letUsKnow_part .body_part .row .form_header{
+    font-size: 20px;
+}
+.soft-project_letUsKnow_part .body_part .row form .form{
+    border-radius: 20px;
+    border: none;
+    background-color:#F8F8F8 ;
+    width: 50%;
+}
+.soft-project_letUsKnow_part .body_part .row form select{
+    color:gray;
+}
+.soft-project_letUsKnow_part .body_part .row form button{
+    border-radius: 20px;
+    border:none;
+}
+.soft-project_footer_part .row .country{
+    font-size: 22px;
+}
+.soft-project_footer_part .row .link{
+    text-decoration: none;
+}
+.footer_background{
+    background-image: url(../images/footer-bg-bc19b36251a1a4f6b8849b21dd183a52.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.soft-project_footer_part .row .third_column input{
+    border-radius: 10px;
+    height: 52px;
+}
+.soft-project_footer_part .row .third_column .background{
+    border-radius:50px;
+    width: 33px;
+    height: 33px;
+    margin-right: 32px;
+}
+.soft-project_footer_part .row .third_column .background a{
+    font-size: 17px;
+}
+
+/* __________________________**********************************______________________________ */
+/* technical Support Services parts */
+.Technical_header_part .row h1{
+    font-size: 48px;
+    color:black;
+}
+.Technical_header_part .row h5{
+    font-size: 24px;
+    color:black;
+}
+.Technical_header_part .row ul li i{
+    font-size: 9px;
+}
+.Technical_header_part .row ul li p{
+    font-size: 15px;
+    color:black;
+}
+.Technical_header_part .row button{
+    border-radius: 20px;
+}
+.Technical_header_part .row img{
+    width: 40%;
+}
+.Technical_services_part{
+    background-image: url(../images/download\ \(10\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Technical_services_part h1{
+    font-size: 35px;
+}
+.Technical_services_part p{
+    font-size: 16px;
+}
+.Technical_services_part .row p{
+    font-size: 18px;
+}
+.Technical_services_part .row h5{
+    font-size: 20px;
+}
+.Support_technicians_Part .header_part h1{
+    font-size: 35px;
+}
+.Support_technicians_Part .header_part h4{
+    font-size: 23px;
+}
+.Support_technicians_Part .body_part .row h5{
+    color:black;
+    font-size: 17px;
+}
+.Support_technicians_Part .body_part .row .background_shadow:hover{
+    box-shadow: 0px 5px 5px 5px #888888;
+}
+.Technical_portfolio_part{
+    background-color: #F2F2F2;
+}
+.Technical_portfolio_part .soft_portfilio_heading{
+    font-size: 35px;
+}
+.Technical_portfolio_part .carousel_part .carousel_Arrow{
+    font-size: 42px;
+    color:#f8f8f8c9;
+}
+.Technical_portfolio_part .carousel-inner .carousel-item .row button{
+    border-radius: 20px;
+}
+.Leverage_Three_part{
+    background-color:#F8F8F8 ;
+}
+.Leverage_Three_part .header_part h1{
+    font-size: 35px;
+}
+.Leverage_Three_part .body_part .row p{
+    font-size: 18px;
+}
+.Leverage_Three_part .body_part .row h2{
+    font-size: 24px;
+}
+.Leverage_Three_part .body_part .row p{
+    font-size: 16px;
+}
+.technicals_tools_part{
+    background-color: #FFF8F0;
+}
+.technicals_tools_part .header_part h1{
+    font-size: 35px;
+}
+.Tecnical_Question_part{
+    background-color: #FAFAFA;
+}
+/* .Tecnical_Question_part .row .email{
+    font-size: 25px;
+} */
+.Tecnical_Question_part .body_part ul li{
+    background-color: #FAFAFA;
+}
+.technical_letUsKnow_part{
+    background-color: #F8F8F8;
+}
+.technical_letUsKnow_part .header_part h1{
+    font-size: 33px;
+}
+.technical_letUsKnow_part .body_part .row .talk{
+    font-size: 23px;
+    color:black;
+}
+.technical_letUsKnow_part .body_part .row .salr_name{
+    color:black;
+}
+.technical_letUsKnow_part .body_part .row .envelope{
+    color:#F14336;
+    font-size: 23px;
+}
+.technical_letUsKnow_part .body_part .row .linkedin{
+    color:#074b70;
+    font-size: 23px;
+}
+.technical_letUsKnow_part .body_part .row .whatsapp{
+    color:rgb(17, 247, 17);
+    font-size: 23px;
+}
+.technical_letUsKnow_part .body_part .row .skype{
+    color:#03A9F4;
+    font-size: 23px;
+}
+
+.technical_letUsKnow_part .body_part .row .form_header{
+    font-size: 20px;
+}
+.technical_letUsKnow_part .body_part .row form .form{
+    border-radius: 20px;
+    border: none;
+    background-color:#F8F8F8 ;
+    width: 50%;
+}
+.technical_letUsKnow_part .body_part .row form select{
+    color:gray;
+}
+.technical_letUsKnow_part .body_part .row form button{
+    border-radius: 20px;
+    border:none;
+}
+.technical_footer_part .row .email{
+    font-size: 22px;
+}
+.technical_footer_part .row .country{
+    font-size: 22px;
+}
+.technical_footer_part .row .link{
+    text-decoration: none;
+}
+.footer_background{
+    background-image: url(../images/footer-bg-bc19b36251a1a4f6b8849b21dd183a52.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.technical_footer_part .row .third_column input{
+    border-radius: 10px;
+    height: 52px;
+}
+.technical_footer_part .row .third_column .background{
+    border-radius:50px;
+    width: 33px;
+    height: 33px;
+    margin-right: 32px;
+}
+.technical_footer_part .row .third_column .background a{
+    font-size: 17px;
+}
+
+
+/* __________________________**********************************______________________________ */
+/* UI/UX Design parts */
+.Ux_header_part .row h1{
+    font-size: 48px;
+    color:black;
+}
+.Ux_header_part .row h5{
+    font-size: 24px;
+    color:black;
+}
+.Ux_header_part .row ul li i{
+    font-size: 9px;
+}
+.Ux_header_part .row ul li p{
+    font-size: 15px;
+    color:black;
+}
+.Ux_header_part .row button{
+    border-radius: 20px;
+}
+.Ux_header_part .row img{
+    width: 40%;
+}
+.Ux_Design_services_part{
+    background-image: url(../images/download\ \(10\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Ux_Design_services_part h1{
+    font-size: 35px;
+}
+.Ux_Design_services_part p{
+    font-size: 16px;
+}
+.Ux_Design_services_part .row p{
+    font-size: 18px;
+}
+.Ux_Design_services_part .row h5{
+    font-size: 20px;
+}
+.UX_Designers_Part .header_part h1{
+    font-size: 35px;
+}
+.UX_Designers_Part .header_part h4{
+    font-size: 23px;
+}
+.UX_Designers_Part .body_part .row h5{
+    color:black;
+    font-size: 17px;
+}
+.UX_Designers_Part .body_part .row .background_shadow:hover{
+    box-shadow: 0px 5px 5px 5px #888888;
+}
+.UX_portfolio_part{
+    background-color: #F2F2F2;
+}
+.UX_portfolio_part .soft_portfilio_heading{
+    font-size: 35px;
+}
+.UX_portfolio_part .carousel_part .carousel_Arrow{
+    font-size: 42px;
+    color:#f8f8f8c9;
+}
+.UX_portfolio_part .carousel-inner .carousel-item .row button{
+    border-radius: 20px;
+}
+.UX_Designing_Process_part{
+    background-color:#F8F8F8 ;
+}
+.UX_Designing_Process_part .header_part h1{
+    font-size: 35px;
+}
+.UX_Designing_Process_part .body_part .row p{
+    font-size: 18px;
+}
+.UX_Designing_Process_part .body_part .row h2{
+    font-size: 24px;
+}
+.UX_Designing_Process_part .body_part .row p{
+    font-size: 16px;
+}
+.UX_tools_part{
+    background-color: #FFF8F0;
+}
+.UX_tools_part .header_part h1{
+    font-size: 35px;
+}
+.UI-UX_Question_part{
+    background-color: #FAFAFA;
+}
+.UI-UX_Question_part .body_part ul li{
+    background-color: #FAFAFA;
+}
+.UI-UX_letUsKnow_part{
+    background-color: #F8F8F8;
+}
+.UI-UX_letUsKnow_part .header_part h1{
+    font-size: 33px;
+}
+.tUI-UX_letUsKnow_part .body_part .row .talk{
+    font-size: 23px;
+    color:black;
+}
+.UI-UX_letUsKnow_part .body_part .row .salr_name{
+    color:black;
+}
+.technical_letUsKnow_part .body_part .row .envelope{
+    color:#F14336;
+    font-size: 23px;
+}
+.UI-UX_letUsKnow_part .body_part .row .linkedin{
+    color:#074b70;
+    font-size: 23px;
+}
+.UI-UX_letUsKnow_part .body_part .row .whatsapp{
+    color:rgb(17, 247, 17);
+    font-size: 23px;
+}
+.technical_letUsKnow_part .body_part .row .skype{
+    color:#03A9F4;
+    font-size: 23px;
+}
+
+.UI-UX_letUsKnow_part .body_part .row .form_header{
+    font-size: 20px;
+}
+.UI-UX_letUsKnow_part .body_part .row form .form{
+    border-radius: 20px;
+    border: none;
+    background-color:#F8F8F8 ;
+    width: 50%;
+}
+.UI-UX_letUsKnow_part .body_part .row form select{
+    color:gray;
+}
+.UI-UX_letUsKnow_part .body_part .row form button{
+    border-radius: 20px;
+    border:none;
+}
+.UI-UX_footer_part .row .email{
+    font-size: 22px;
+}
+.UI-UX_footer_part .row .country{
+    font-size: 22px;
+}
+.UI-UX_footer_part .row .link{
+    text-decoration: none;
+}
+.footer_background{
+    background-image: url(../images/footer-bg-bc19b36251a1a4f6b8849b21dd183a52.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.UI-UX_footer_part .row .third_column input{
+    border-radius: 10px;
+    height: 52px;
+}
+.UI-UX_footer_part .row .third_column .background{
+    border-radius:50px;
+    width: 33px;
+    height: 33px;
+    margin-right: 32px;
+}
+.UI-UX_footer_part .row .third_column .background a{
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
